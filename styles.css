@@ -1,0 +1,62 @@
+body {
+  background-color:#000000;
+     background-image: 
+    linear-gradient(to bottom, #FFD2BA,#FFAA7D,#FC9862,#21B0AB,#62FCF7);
+}
+
+body {
+background: url("https://media.kidadl.com/607fbecd31e50538058e2293_find_more_about_this_exotic_creature_by_reading_these_siberian_cat_facts_3f2901e806.jpg");
+}
+
+a:visited {
+    color:#000AAF;
+}
+
+.profile {
+    color:red;
+    font-size:50px;
+    font-family:Teko;
+   
+}
+
+.name {
+    color:#7EB6FF;
+    font-size:35px;
+    font-family:exo;
+}
+
+li {
+    color:#36BFFF;
+    font-family:shadows into light;
+}
+
+h4 {
+    color:black;
+}
+
+.five {
+    color:teal;
+    font-family:shadows into light;
+}
+
+.freshman {
+    color:#B07521;
+}
+
+.live {
+    color:teal;
+    font-family:shadows into light;
+}
+
+.videos {
+    color:teal;
+    font-family:shadows into light;
+}
+
+.code {
+    color:teal;
+    font-family:shadows into light;
+}
+
+
+h1, h2, h4, li, p {text-align: center;}
